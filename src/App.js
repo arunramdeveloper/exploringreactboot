@@ -1,9 +1,9 @@
-import Login2 from "./bootLogindemo2/Login2";
+import Layout from "./apidemo1/Layout";
 
 function App() {
   return (
     <>
-      <Login2 />
+      <Layout />
     </>
   );
 }
