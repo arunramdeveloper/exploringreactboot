@@ -1,9 +1,9 @@
-import Test2 from "./bootdemo1/Test2";
+import Test4 from "./bootdemo2/Test4";
 
 function App() {
   return (
     <>
-      <Test2 />
+      <Test4 />
     </>
   );
 }
