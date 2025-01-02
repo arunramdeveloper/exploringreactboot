@@ -1,9 +1,9 @@
-import Test4 from "./bootdemo2/Test4";
+import Login2 from "./bootLogindemo2/Login2";
 
 function App() {
   return (
     <>
-      <Test4 />
+      <Login2 />
     </>
   );
 }
